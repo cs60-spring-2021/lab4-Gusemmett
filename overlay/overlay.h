@@ -12,7 +12,7 @@
 /*** overlay parameters ***/
 
 // the port number opened by the overlay process and connected by the network layer process, you should change this to a random value to avoid conflicts with other students
-#define OVERLAY_PORT 62028
+#define OVERLAY_PORT 60561
 
 // maximal packet length
 #define MAX_PKT_LEN 1500

@@ -36,7 +36,7 @@
 #define OVERLAY_START_DELAY 30
 
 // the port number used for nodes to interconnect each other to form an overlay, you should change this to a random value to avoid conflicts with other students
-#define CONNECTION_PORT 60020
+#define CONNECTION_PORT 60562
 
 
 /**************** global variables ****************/
